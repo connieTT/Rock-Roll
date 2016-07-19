@@ -1,5 +1,6 @@
 # Rock-Roll
+CS3630 Intro-Perception&Robotic 
+It convers fundamental problems and leading solutions for computer and robot perception and action from the point of view of autonomous robot navigation.
 Scribbler Robot
-Lab1: Robot stops when obstacle encountered
-	  Robot follows wall
+Author: Tongtong Zhao
 	  
